@@ -1,6 +1,5 @@
 people = ['juan','ana','michelle','daniella','stefany','lucy','barak']
 
-#Your code go here:
 def deletePerson(person_name):
     new_list=[]
     for i in range(len(people)):

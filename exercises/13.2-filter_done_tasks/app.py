@@ -10,8 +10,6 @@ tasks = [
 	{ "label": 'Make a trip', "done": False }
 ]
 
-
-#Your code go here:
 def funcion(tasks):
 	if tasks["done"] == True:
 		return(tasks)

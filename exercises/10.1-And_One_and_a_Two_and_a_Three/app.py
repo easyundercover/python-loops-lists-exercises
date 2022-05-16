@@ -3,8 +3,8 @@ contact = {
     "phone": "321-321-4321",
     "email": "test@test.com"
 }
-#Your code here:
 
+#No encontré forma de hacerlo igual a la solución de 4geeks
 #Formas de tener un output parecido:
 #for x, y in contact.items():
 #  print(x, y)

@@ -1,5 +1,5 @@
 spanish_translations = { "dog": "perro", "house": "casa", "cat": "gato" }
-# Your code here
+#Code from here:
 keys = ["love", "code", "smart"]
 values = ["amor", "codigo", "inteligente"]
 

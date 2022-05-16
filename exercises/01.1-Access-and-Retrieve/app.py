@@ -1,4 +1,3 @@
-
 my_list = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday']
 
 # 1. print the item here

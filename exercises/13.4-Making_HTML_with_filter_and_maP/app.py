@@ -8,7 +8,6 @@ all_colors = [
 	{"label": 'Purple', "sexy": False},
 ]
 
-#Your code go here:
 def filter_colors(list):
 	if all_colors["sexy"] == True:
 		return(list)

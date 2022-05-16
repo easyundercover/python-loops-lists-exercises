@@ -8,12 +8,12 @@
 !learn.json
 !README.md
 
-!/exercises
-!/exercises/*
+/exercises
+/exercises/*
 
-!/.learn
-/.learn/**
-!/.learn/resets
-!/.learn/resets/**
-!/.learn/assets
-!/.learn/assets/**
+/.learn
+.learn/**
+/.learn/resets
+/.learn/resets/**
+/.learn/assets
+/.learn/assets/**

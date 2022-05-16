@@ -6,5 +6,4 @@ for i in par:
     counts[i] = counts.get(i,0)+ 1
 print(counts)
 
-###Falta ignorar los espacios, chequear
-
+### Esto sale bien pero no ignora los espacios, ver cómo hacer

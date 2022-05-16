@@ -16,5 +16,4 @@ def calculateAge(birthDate):
     return age
 
 name_list = list(map(lambda person: "Hello, my name is " + person["name"] + " and I am " +   + " years old", people))
-print(name_list)
-###Ver cómo agregar calculateAge
+print(name_list) #Me falta ver cómo agregar calculateAge acá

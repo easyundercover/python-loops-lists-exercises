@@ -1,6 +1,5 @@
 names = ['Esmeralda','Kiko','Ruth','Lebron','Pedro','Maria','Lou','Fernando','Cesco','Bart','Annie']
 
-#Your code here:
 names[1]='Steven'
 names[len(names)-1]= 'Pepe'
 names[0] = str(names[2]) + str(names[4])

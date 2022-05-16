@@ -7,7 +7,7 @@ def my_function(numbers):
             new_list.append(i)
         else:
             new_list.append("Yahoo")
-        
     return new_list
+
 print(my_function(my_list))
 
