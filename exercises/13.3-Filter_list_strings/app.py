@@ -7,3 +7,11 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 
 
 #Your code go here:
+def funcion(names):
+    if "am" in names:
+     return(names)
+
+
+resulting_names=list(filter(funcion, names))
+print(resulting_names)
+

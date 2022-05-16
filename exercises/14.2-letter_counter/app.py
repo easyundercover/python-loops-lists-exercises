@@ -2,6 +2,9 @@ par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget bib
 
 counts = {}
 #your code go here:
-
+for i in par:
+    counts[i] = counts.get(i,0)+ 1
 print(counts)
+
+###Falta ignorar los espacios, chequear
 

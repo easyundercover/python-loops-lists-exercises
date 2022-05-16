@@ -9,4 +9,9 @@ all_colors = [
 ]
 
 #Your code go here:
+def filter_colors(list):
+	if all_colors["sexy"] == True:
+		return(list)
+###Hacer este
+
 

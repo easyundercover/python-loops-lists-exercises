@@ -12,4 +12,11 @@ tasks = [
 
 
 #Your code go here:
+def funcion(tasks):
+	if tasks["done"] == True:
+		return(tasks)
+
+resultado=list(filter(funcion, tasks))
+print(resultado)
+
 
